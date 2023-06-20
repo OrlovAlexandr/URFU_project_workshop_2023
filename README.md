@@ -1,1 +1,9 @@
-# URFU_project_workshop_2023
+# Проектный практикум. Задача регрессии
+
+Выполнил: Александр Орлов
+
+Содержание репозитория:
+
+1. orlov_aa__project_workshop.ipynb - IPYBN блокнот проекта
+2. submission_gb.csv - CSV-файл с результатом работы модели градиентного бустинга над деревьями решений (GradientBoostingRegressor)
+3. submission_xgb.csv - CSV-файл с результатом работы модели экстремального градиентного бустинга (XGBoost)
